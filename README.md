@@ -12,7 +12,7 @@
   6. LDR X 1
   7. Arduino X 1
 
- #Working
+ # Working
   The ultrasonic Sensor is used to find if any obstacle is detected from a long range as well as measures the distance between the source and the obstacle and the distance is sent to LCD for the user to see. 
   A LDR(Light Detection Ranging) is used to detect if it is day or night.
   
